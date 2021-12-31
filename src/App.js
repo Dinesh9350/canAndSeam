@@ -7,10 +7,10 @@ const App = () => {
     <div className="App">
       <div>
         <Navbar/>
-        {/* <Header /> */}
+        <Header />
       </div>
-      {/* <Reviews />
-      <Footer /> */}
+      <Reviews />
+      <Footer />
     </div>
   )
 }
